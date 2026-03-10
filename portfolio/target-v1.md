@@ -13,7 +13,17 @@ Stand: 2026-03-10 | Gesamtkapital: $424,891
 
 ## Zielallokation
 
-### Tier 1 — Core Compounders (45-50%, ~$195k)
+| Tier | Beschreibung | Gewicht | ~Betrag |
+|------|-------------|---------|---------|
+| 1 | Core Compounders | 43% | ~$183k |
+| 2 | High-Octane AI | 24% | ~$102k |
+| 3 | Satelliten & Moonshots | 10% | ~$43k |
+| 4 | Breites Beta | 12% | ~$51k |
+| 5 | Options (Hebel + Hedge) | 7% | ~$30k |
+| — | Cash Reserve | 3% | ~$13k |
+| **Total** | | **100%** | **~$425k** |
+
+### Tier 1 — Core Compounders (43%, ~$183k)
 
 Strukturell starke Unternehmen mit zweistelligem Wachstum, starken Bilanzen, berechenbarer Trajectory.
 
@@ -27,7 +37,7 @@ Strukturell starke Unternehmen mit zweistelligem Wachstum, starken Bilanzen, ber
 | LLY | Eli Lilly | 5% | $21k | GLP-1 Leader, +40% YoY, PEG ~0.7 | ~25-29 |
 | ETN | Eaton | 4% | $17k | Power-Infra für AI/Data-Center, ROE >20% | ~24-27 |
 
-### Tier 2 — High-Octane AI (25-30%, ~$115k)
+### Tier 2 — High-Octane AI (24%, ~$102k)
 
 Höheres Wachstum, höhere Bewertung, höhere Volatilität. Hier kommt das Alpha.
 
@@ -38,7 +48,7 @@ Höheres Wachstum, höhere Bewertung, höhere Volatilität. Hier kommt das Alpha
 | ASML | ASML | 5% | $21k | EUV-Monopol, Rekord-Bookings 13.2 Mrd EUR | ~39 |
 | NOW | ServiceNow | 5% | $21k | AI-Workflow, -31% in 12M → Fwd P/E ~23, 60%+ Upside laut Analysten | ~23 |
 
-### Tier 3 — Thematische Satelliten & Moonshots (10-15%, ~$50k)
+### Tier 3 — Thematische Satelliten & Moonshots (10%, ~$43k)
 
 Höchstes Risk/Reward. Begrenzte Größe, asymmetrische Payoffs.
 
@@ -48,7 +58,7 @@ Höchstes Risk/Reward. Begrenzte Größe, asymmetrische Payoffs.
 | CRSP | CRISPR Therapeutics | 3% | $13k | Reduziert von 12% → Moonshot-Bucket, 2 Mrd Cash |
 | NVO | Novo Nordisk | 3% | $13k | GLP-1 #2, Trailing P/E ~14, kurzfristig gedrückt |
 
-### Tier 4 — Breites Beta (10-15%, ~$50k)
+### Tier 4 — Breites Beta (12%, ~$51k)
 
 Basis-Diversifikation, Rebalancing-Reserve.
 
@@ -56,6 +66,20 @@ Basis-Diversifikation, Rebalancing-Reserve.
 |--------|------|---------|---------|-------|
 | QQQ | Nasdaq 100 | 8% | $34k | Getrimmt von 53% → Core-Tech-Basis |
 | FWRA | FTSE All-World | 5% | $21k | Globale Diversifikation, reduziert von 29% |
+
+### Tier 5 — Options (5-7%, ~$30k)
+
+Asymmetrischer Hebel + Crash-Absicherung. Kann auf Null gehen.
+
+| # | Typ | Underlying | Strike | Expiry | Budget | Risk |
+|---|-----|-----------|--------|--------|--------|------|
+| 1 | Long Call LEAP | MSFT | ATM bis 5% OTM | Jan/Jun 2027 | ~$7k | 3/5 |
+| 2 | Bull Call Spread | NVDA | 10% OTM / 30% OTM | Jan 2027 | ~$6k | 4/5 |
+| 3 | Long Call LEAP | META | ATM bis 5% OTM | Jan 2027 | ~$5k | 3/5 |
+| 4 | Long Call LEAP (ITM) | LLY | 5-10% ITM | Jan 2028 | ~$4k | 2-3/5 |
+| 5 | Put-Spread (Hedge) | QQQ | 10% OTM / 30% OTM | Sep 2026 | ~$3k | 2/5 |
+
+Details & Regeln: siehe `options-strategy.md`
 
 ### Cash Reserve: 2-3% (~$10k)
 
@@ -120,7 +144,7 @@ Für opportunistische Nachkäufe bei Drawdowns.
 ### ADHS-Schutz
 10. **72-Stunden-Regel:** Jede Kauf/Verkauf-Entscheidung die nicht unter Regel 4-6 fällt → 72 Stunden warten
 11. **Rho checkt:** Ich monitore und erinnere an Regeln wenn nötig
-12. **Kein Margin, kein Leverage** — nur Cash-Positionen
+12. **Kein Margin, kein Leverage** — nur Cash-Positionen + definierte Options (Tier 5)
 
 ---
 
