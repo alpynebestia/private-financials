@@ -1,3 +1,5 @@
+> **KORREKTUR:** BLLG ist Blue Lagoon Resources (Kanada, Mining), NICHT ein Blockchain ETF. Alle Blockchain-Referenzen zu BLLG in diesem Dokument sind falsch.
+
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
 # \# Perplexity Prompt — Options-Strategie

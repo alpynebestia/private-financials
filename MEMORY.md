@@ -19,13 +19,13 @@
 - QQQ: 282.5 Stk, Avg $529, 53% Gewicht (+15%)
 - FWRA: 11,200 Stk, Avg $7.20, 29% Gewicht (+18.4%)
 - CRSP: 730 Stk, Avg $64.40, 12% Gewicht (-17.7%)
-- BLLG: 18,321 Stk, Avg $0.58, 6% Gewicht (+77.6%)
+- BLLG: 18,321 Stk, Avg $0.58, 6% Gewicht (+77.6%) — Blue Lagoon Resources (Kanada, Mining), NICHT Blockchain
 
 ## Strategie-Entscheidungen
 - QQQ von 53% → 7% trimmen (zu passiv, Bewertungsprämie, Doppel-Exposure)
 - CRSP von 12% → 3% (zu viel für binäres Biotech)
 - FWRA von 29% → 5% (Kapital für Einzeltitel freimachen)
-- BLLG behalten bei ~4%
+- BLLG (Blue Lagoon Resources) behalten bei ~4%
 - Neu: 12 Einzeltitel + 5 Options-Trades
 - CHF-Margin statt USD (1.45% vs ~6%)
 

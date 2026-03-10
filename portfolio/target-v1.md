@@ -70,7 +70,7 @@ Höchstes Risk/Reward. Begrenzte Größe, asymmetrische Payoffs.
 
 | Ticker | Name | Gewicht | ~Betrag | These |
 |--------|------|---------|---------|-------|
-| BLLG | Blockchain ETF | 4% | $15k | Behalten (bereits +77%), Crypto-Zyklus |
+| BLLG | Blue Lagoon Resources | 4% | $15k | Behalten (bereits +77%), kanadischer Gold/Silber-Mining-Explorer |
 | CRSP | CRISPR Therapeutics | 3% | $11k | Reduziert von 12% → Moonshot-Bucket, 2 Mrd Cash |
 | NVO | Novo Nordisk | 3% | $11k | GLP-1 #2, Trailing P/E ~14, kurzfristig gedrückt |
 

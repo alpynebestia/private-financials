@@ -8,7 +8,7 @@ Stand: 2026-03-10
 |--------|------|-------------|---------|-------|
 | QQQ | Invesco QQQ (Nasdaq 100) | $529.00 | $608.20 | +15.0% |
 | FWRA | SPDR MSCI ACWI (FTSE All-World equiv.) | $7.202 | $8.528 | +18.4% |
-| BLLG | iShares Blockchain Tech | $0.58 | $1.03 | +77.6% |
+| BLLG | Blue Lagoon Resources (Kanada, Mining) | $0.58 | $1.03 | +77.6% |
 | CRSP | CRISPR Therapeutics | $64.40 | $53.00 | -17.7% |
 
 ## Gewichtung (Stand 2026-03-10)

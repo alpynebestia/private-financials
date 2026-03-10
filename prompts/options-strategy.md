@@ -11,7 +11,7 @@ Ich bin ein risikofreudiger Retail-Investor (IBKR, Schweiz, keine Kapitalgewinns
 **SaaS/Security:** NOW (ServiceNow)
 **Power/Infra:** ETN (Eaton)
 **Healthcare/GLP-1:** LLY, NVO
-**Moonshots:** CRSP, BLLG (Blockchain ETF)
+**Moonshots:** CRSP, BLLG (Blue Lagoon Resources, Mining)
 
 Ich möchte 5-10% meines Portfolios (~$20-40k) in Optionen allokieren, um asymmetrische Renditen zu erzielen. Ich verstehe dass Optionen auf Null gehen können.
 
