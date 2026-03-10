@@ -11,7 +11,7 @@ Stand: 2026-03-10 | Budget: $20-40k (5-10% des Portfolios)
 
 ---
 
-## Top 5 Trades
+## Top 4 Trades
 
 ### Trade 1 — MSFT LEAP (Risk: 3/5) ⭐ Prio 1
 - **Typ:** Long Call, 12-15 Monate
@@ -19,45 +19,40 @@ Stand: 2026-03-10 | Budget: $20-40k (5-10% des Portfolios)
 - **Expiry:** Jan oder Jun 2027
 - **IV:** ~25% (niedrig für Big-Tech Growth)
 - **Delta:** ~0.5-0.6
-- **Budget:** ~$6-8k (1-2 Kontrakte)
-- **Warum:** Günstigste IV im Universum, stärkster AI-Plattform-Case, 47% Analysten-Upside, verlässliche Quartals-Katalysatoren
+- **Budget:** ~$8k (1-2 Kontrakte)
+- **Warum:** Günstigste IV im Universum, Konsens-Upside +18-27%, EPS-Wachstum ~14-24%, verlässliche Quartals-Katalysatoren. Perplexity: >15% Wahrscheinlichkeit HOCH.
 
-### Trade 2 — NVDA Call-Spread (Risk: 4/5) ⭐ Prio 1
-- **Typ:** Bull Call Spread, 9-12 Monate
-- **Struktur:** Long 10% OTM Call, Short 30% OTM Call
-- **Expiry:** Jan 2027
-- **IV:** ~40% (IV-Rank nur ~20% → für NVDA günstig)
-- **Budget:** ~$5-6k
-- **Warum:** AI-GPU-Dominanz, massives Wachstum, Spread reduziert Prämie vs. reiner Long Call. Mehrere Earnings als Katalysator
-
-### Trade 3 — META LEAP (Risk: 3/5)
+### Trade 2 — META LEAP (Risk: 3/5) ⭐ Prio 1
 - **Typ:** Long Call, 12 Monate
 - **Strike:** ATM oder 5% OTM
 - **Expiry:** Jan 2027
 - **IV:** ~33% (IV-Rank ~20%, günstig vs. 1-Jahres-Range)
-- **Budget:** ~$5-6k
-- **Warum:** Umsatz +27% 2026, massiver Buyback, Ads/AI-Monetarisierung, 30% Konsens-Upside
+- **Budget:** ~$7k
+- **Warum:** Konsens-Upside +29-33%, EPS-Wachstum ~15%, starke AI-Ads-Monetarisierung, massiver Buyback. Perplexity: >15% Wahrscheinlichkeit HOCH.
 
-### Trade 4 — LLY ITM-LEAP (Risk: 2-3/5)
-- **Typ:** Long Call, 12-18 Monate, leicht ITM
-- **Strike:** 5-10% ITM (Delta ~0.6-0.7)
-- **Expiry:** Jan 2028
-- **IV:** ~34%
-- **Budget:** ~$4-5k
-- **Warum:** GLP-1-Leader, nicht Tech-korreliert → Diversifikation im Options-Bucket. Mehrere Studien-Katalysatoren. "Stock Replacement" mit weniger Kapital
+### Trade 3 — NVDA Call-Spread (Risk: 4/5)
+- **Typ:** Bull Call Spread, 9-12 Monate
+- **Struktur:** Long 10% OTM Call, Short 30% OTM Call
+- **Expiry:** Jan 2027
+- **IV:** ~40% (IV-Rank nur ~20% → für NVDA günstig)
+- **Budget:** ~$5k
+- **Warum:** Konsens-Upside +34-40%, aber binär — Spread begrenzt Prämie und Verlust. Perplexity: >15% Wahrscheinlichkeit MITTEL (hohe Varianz).
 
-### Trade 5 — QQQ Put-Spread als Crash-Hedge (Risk: 2/5)
+### Trade 4 — QQQ Put-Spread als Crash-Hedge (Risk: 2/5)
 - **Typ:** Long Put-Spread, 6 Monate
 - **Struktur:** Long Put 10% OTM, Short Put 30% OTM
 - **Expiry:** Sep/Okt 2026
-- **Geschätzte Kosten:** ~1-2% des abgesicherten Notionals (~$2-4k für $200k Hedge)
-- **Warum:** Dein Portfolio ist massiv Tech/Nasdaq-korreliert. Das ist dein Airbag für den Fall eines Makro-Schocks. Verfällt wertlos wenn alles gut läuft (= Versicherungsprämie)
+- **Budget:** ~$7k (verdoppelt vs. ursprünglich $3k)
+- **Warum:** Portfolio ist $380k Tech-lastig. $7k Hedge deckt realistisch ~$150-200k Notional bei -20% Crash. Verfällt wertlos wenn alles gut läuft (= Versicherungsprämie).
+
+### Gestrichen: LLY LEAP
+- **Grund:** Konsens-Upside bei konservativen Quellen nur +12% — reicht nicht um Zeitwertverfall zu kompensieren. Perplexity: >15% Wahrscheinlichkeit nur MITTEL (50:50). Budget umgeschichtet in QQQ-Hedge.
 
 ---
 
 ## Regeln für Options-Trading
 
-1. **Positionsgröße:** Max $6-8k pro Trade, kein einzelner Trade >25% des Options-Budgets
+1. **Positionsgröße:** Max $8k pro Trade, kein einzelner Trade >30% des Options-Budgets
 2. **Gewinn mitnehmen:** Bei Verdopplung der Prämie → 50% der Position schließen
 3. **Verlust begrenzen:** Bei -50% der Prämie → Review ob Thesis noch intakt. Bei -75% → schließen
 4. **Time-Stop:** Spätestens 3-4 Monate vor Verfall entscheiden: Rollen oder Schließen (Theta frisst exponentiell)

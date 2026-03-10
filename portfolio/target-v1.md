@@ -89,11 +89,10 @@ Asymmetrischer Hebel + Crash-Absicherung. Kann auf Null gehen.
 
 | # | Typ | Underlying | Strike | Expiry | Budget | Risk |
 |---|-----|-----------|--------|--------|--------|------|
-| 1 | Long Call LEAP | MSFT | ATM bis 5% OTM | Jan/Jun 2027 | ~$6k | 3/5 |
-| 2 | Bull Call Spread | NVDA | 10% OTM / 30% OTM | Jan 2027 | ~$5k | 4/5 |
-| 3 | Long Call LEAP | META | ATM bis 5% OTM | Jan 2027 | ~$5k | 3/5 |
-| 4 | Long Call LEAP (ITM) | LLY | 5-10% ITM | Jan 2028 | ~$4k | 2-3/5 |
-| 5 | Put-Spread (Hedge) | QQQ | 10% OTM / 30% OTM | Sep 2026 | ~$3k | 2/5 |
+| 1 | Long Call LEAP | MSFT | ATM bis 5% OTM | Jan/Jun 2027 | ~$8k | 3/5 |
+| 2 | Long Call LEAP | META | ATM bis 5% OTM | Jan 2027 | ~$7k | 3/5 |
+| 3 | Bull Call Spread | NVDA | 10% OTM / 30% OTM | Jan 2027 | ~$5k | 4/5 |
+| 4 | Put-Spread (Hedge) | QQQ | 10% OTM / 30% OTM | Sep 2026 | ~$7k | 2/5 |
 
 Details & Regeln: siehe `options-strategy.md`
 
