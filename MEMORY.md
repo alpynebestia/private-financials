@@ -50,4 +50,10 @@
 - Ziel-Portfolio v1 gebaut: 5 Tiers (Core/AI/Satelliten/Beta/Options)
 - Options-Strategie: 5 Trades (MSFT/NVDA/META/LLY LEAPS + QQQ Hedge)
 - Anpassung: $100k Cash nicht investierbar, stattdessen $100k CHF-Margin (1.45%)
+- BLLG-Korrektur: Blue Lagoon Resources (Mining), NICHT Blockchain ETF
+- Portfolio-Validierung via Perplexity: Korrelationsrisiko, Timing, Margin
+- Recherche nicht-korrelierte Sektoren (Defence, Uranium, India)
+- Entscheidung: v1 bleibt, keine Diversifikation in andere Sektoren
+- Begründung: Weniger Komplexität > marginaler Drawdown-Schutz bei ADHS-Profil
 - Repo-Struktur aufgebaut (portfolio/, research/, prompts/, memory/)
+- Nächster Schritt: MacBook-Setup Montag, dann IBKR-Anbindung + Umschichtung starten
